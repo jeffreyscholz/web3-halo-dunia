@@ -1,0 +1,2 @@
+export const ADDRESS = "0xDfF66D22DB476183F54ff1386c1a786c49EbCA7b"
+export const CONTRACT_ABI = [{"inputs":[],"name":"retrieve","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"num","type":"uint256"}],"name":"store","outputs":[],"stateMutability":"nonpayable","type":"function"}]
